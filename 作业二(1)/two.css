@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{width: 400px;
+    height: 200px;
+    margin:0 auto;
+}
+
+
+.one{
+    background:#00acc1;
+    height:80px;
+    
+    
+}
+.two{
+    background:#9ccc65;
+    
+}
+.three{
+    background:#00acc1;
+    height:80px;
+    width:400px;
+}
+.button{
+    height: 40px;
+    width: 250px;
+    background-color: transparent;
+    padding-left: 150px;
+    padding-top: 20px;
+    margin: 0 auto;
+
+}
+.button a{
+    
+    font-size:30px;
+    text-decoration: none;
+    color: rgb(149, 159, 175);
+    font-weight: bold;
+    text-align: center;
+    }
+.button a:hover{font-size: 31px;
+        color: gray;}

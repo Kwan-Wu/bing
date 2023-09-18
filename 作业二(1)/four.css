@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px 60px;
+}
+
+
+.one{
+background:#00acc1;
+height:80px;  
+}
+.two{
+background:#fff176;
+height:150px;
+width:140px;
+float:left;
+}
+.three{
+background:#9ccc65;
+width:260px;
+height:150px;
+float:left;
+}
+
+.four{
+background:#00acc1;
+height:80px;
+clear:left;
+}
+.button{
+    height: 40px;
+    width: 250px;
+    background-color: transparent;
+    padding-left: 150px;
+    padding-top: 20px;
+    margin: 0 auto;
+
+}
+.button a{
+    
+    font-size:30px;
+    text-decoration: none;
+    color: rgb(149, 159, 175);
+    font-weight: bold;
+    text-align: center;
+    }
+.button a:hover{font-size: 31px;
+        color: gray;}
